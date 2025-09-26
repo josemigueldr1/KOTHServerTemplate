@@ -1,4 +1,4 @@
-{p
+{
   "settings": {
     "mod loader": [
       "/BasicModSetup/Blueprints/BP_Init_Live_KOTH_BM_Child.BP_Init_Live_KOTH_BM_Child_C",
@@ -1811,7 +1811,7 @@
           "family name": "M14",
           "single cost": "800",
           "perma cost": "100000",
-          "description": "Add M14 Test",
+          "description": "The M14 is a select-fire Battle Rifle that currently has a ironsight and M68 red dot sight variant. ",
           "texture": "/Game/UI/HUD/Inventory/Weapons/Rifles/T_m14.T_m14",
           "xp unlocks": [
             {
@@ -2713,8 +2713,8 @@
               "item count": -1,
               "prestige": 0
             },
-            {
-              "item": "/Game/Blueprints/Items/RocketLaunchers/RPG7/RPG7/BP_RPG7V2_Frag.BP_RPG7V2_Frag_C",
+                              {
+              "item": "/Game/Blueprints/Items/Founders/RocketLaunchers/BP_RPG7V2_Frag_Founders.BP_RPG7V2_Frag_Founders",
               "unlock level": 5,
               "perk requirements": [
                 "Launcher"
@@ -2749,8 +2749,8 @@
               "item count": -1,
               "prestige": 0
             },
-            {
-              "item": "/Game/Blueprints/Items/RocketLaunchers/RPG7/RPG7/BP_RPG7V2_Heat.BP_RPG7V2_Heat_C",
+                                    {
+              "item": "/Game/Blueprints/Items/Founders/RocketLaunchers/BP_RPG7V2_Heat_Founders.BP_RPG7V2_Heat_Founders",
               "unlock level": 10,
               "perk requirements": [
                 "Launcher"
@@ -2758,8 +2758,8 @@
               "item count": -1,
               "prestige": 0
             },
-            {
-              "item": "/Game/Blueprints/Items/RocketLaunchers/RPG7/RPG7/BP_RPG7V2_Thermo.BP_RPG7V2_Thermo_C",
+                                {
+              "item": "/Game/Blueprints/Items/Founders/RocketLaunchers/BP_RPG7V2_Thermo_Founders.BP_RPG7V2_Thermo_Founders",
               "unlock level": 15,
               "perk requirements": [
                 "Launcher"
@@ -2776,8 +2776,8 @@
               "item count": -1,
               "prestige": 0
             },
-            {
-              "item": "/Game/Blueprints/Items/RocketLaunchers/RPG7/RPG7/BP_RPG7V2_Tandem.BP_RPG7V2_Tandem_C",
+                                  {
+              "item": "/Game/Blueprints/Items/Founders/RocketLaunchers/BP_RPG7V2_Tandem_Founders.BP_RPG7V2_Tandem_Founders",
               "unlock level": 25,
               "perk requirements": [
                 "Launcher"
@@ -6215,7 +6215,7 @@
           "family name": "M14",
           "single cost": "800",
           "perma cost": "100000",
-          "description": "Add M14 Test",
+          "description": "The M14 is a select-fire Battle Rifle that currently has a ironsight and M68 red dot sight variant. ",
           "texture": "/Game/UI/HUD/Inventory/Weapons/Rifles/T_m14.T_m14",
           "xp unlocks": [
             {
@@ -7117,8 +7117,8 @@
               "item count": -1,
               "prestige": 0
             },
-            {
-              "item": "/Game/Blueprints/Items/RocketLaunchers/RPG7/RPG7/BP_RPG7V2_Frag.BP_RPG7V2_Frag_C",
+                              {
+              "item": "/Game/Blueprints/Items/Founders/RocketLaunchers/BP_RPG7V2_Frag_Founders.BP_RPG7V2_Frag_Founders",
               "unlock level": 5,
               "perk requirements": [
                 "Launcher"
@@ -7153,8 +7153,8 @@
               "item count": -1,
               "prestige": 0
             },
-            {
-              "item": "/Game/Blueprints/Items/RocketLaunchers/RPG7/RPG7/BP_RPG7V2_Heat.BP_RPG7V2_Heat_C",
+                                    {
+              "item": "/Game/Blueprints/Items/Founders/RocketLaunchers/BP_RPG7V2_Heat_Founders.BP_RPG7V2_Heat_Founders",
               "unlock level": 10,
               "perk requirements": [
                 "Launcher"
@@ -7162,8 +7162,8 @@
               "item count": -1,
               "prestige": 0
             },
-            {
-              "item": "/Game/Blueprints/Items/RocketLaunchers/RPG7/RPG7/BP_RPG7V2_Thermo.BP_RPG7V2_Thermo_C",
+                                {
+              "item": "/Game/Blueprints/Items/Founders/RocketLaunchers/BP_RPG7V2_Thermo_Founders.BP_RPG7V2_Thermo_Founders",
               "unlock level": 15,
               "perk requirements": [
                 "Launcher"
@@ -7180,8 +7180,8 @@
               "item count": -1,
               "prestige": 0
             },
-            {
-              "item": "/Game/Blueprints/Items/RocketLaunchers/RPG7/RPG7/BP_RPG7V2_Tandem.BP_RPG7V2_Tandem_C",
+                                  {
+              "item": "/Game/Blueprints/Items/Founders/RocketLaunchers/BP_RPG7V2_Tandem_Founders.BP_RPG7V2_Tandem_Founders",
               "unlock level": 25,
               "perk requirements": [
                 "Launcher"
@@ -10859,7 +10859,7 @@
           "family name": "M14",
           "single cost": "800",
           "perma cost": "100000",
-          "description": "Add M14 Test",
+          "description": "The M14 is a select-fire Battle Rifle that currently has a ironsight and M68 red dot sight variant. ",
           "texture": "/Game/UI/HUD/Inventory/Weapons/Rifles/T_m14.T_m14",
           "xp unlocks": [
             {
@@ -11761,8 +11761,8 @@
               "item count": -1,
               "prestige": 0
             },
-            {
-              "item": "/Game/Blueprints/Items/RocketLaunchers/RPG7/RPG7/BP_RPG7V2_Frag.BP_RPG7V2_Frag_C",
+                              {
+              "item": "/Game/Blueprints/Items/Founders/RocketLaunchers/BP_RPG7V2_Frag_Founders.BP_RPG7V2_Frag_Founders",
               "unlock level": 5,
               "perk requirements": [
                 "Launcher"
@@ -11797,8 +11797,8 @@
               "item count": -1,
               "prestige": 0
             },
-            {
-              "item": "/Game/Blueprints/Items/RocketLaunchers/RPG7/RPG7/BP_RPG7V2_Heat.BP_RPG7V2_Heat_C",
+                                    {
+              "item": "/Game/Blueprints/Items/Founders/RocketLaunchers/BP_RPG7V2_Heat_Founders.BP_RPG7V2_Heat_Founders",
               "unlock level": 10,
               "perk requirements": [
                 "Launcher"
@@ -11806,8 +11806,8 @@
               "item count": -1,
               "prestige": 0
             },
-            {
-              "item": "/Game/Blueprints/Items/RocketLaunchers/RPG7/RPG7/BP_RPG7V2_Thermo.BP_RPG7V2_Thermo_C",
+                                {
+              "item": "/Game/Blueprints/Items/Founders/RocketLaunchers/BP_RPG7V2_Thermo_Founders.BP_RPG7V2_Thermo_Founders",
               "unlock level": 15,
               "perk requirements": [
                 "Launcher"
@@ -11824,8 +11824,8 @@
               "item count": -1,
               "prestige": 0
             },
-            {
-              "item": "/Game/Blueprints/Items/RocketLaunchers/RPG7/RPG7/BP_RPG7V2_Tandem.BP_RPG7V2_Tandem_C",
+                                  {
+              "item": "/Game/Blueprints/Items/Founders/RocketLaunchers/BP_RPG7V2_Tandem_Founders.BP_RPG7V2_Tandem_Founders",
               "unlock level": 25,
               "perk requirements": [
                 "Launcher"
